@@ -14,13 +14,6 @@ You can click the Preview link to take a look at your changes.
 ![](https://luogu.vercel.app/api?id=60845&dark_mode=true)
 
 ***
-我的 CF 账号：（又被吊打了嘤嘤嘤）
-
-[![](https://cfrating.cf/?user=SrO)](https://codeforces.com/profile/SrO)
-
-[![](https://cfrating.cf/?user=CuCl2)](https://codeforces.com/profile/CuCl2)
-
-***
 #### [落海](http://www.kuwo.cn/play_detail/174077291) OI 版
 
 阶乘组合斯特林数在方程中潜行\
