@@ -14,6 +14,16 @@ You can click the Preview link to take a look at your changes.
 ![](https://luogu.vercel.app/api?id=60845&dark_mode=true)
 
 ***
+
+我的 CF 账号：（又被吊打了嘤嘤嘤）
+
+[![](http://cfrating.ihcr.top/?user=SrO)](https://codeforces.com/profile/SrO) —— 大号 #1
+
+[![](http://cfrating.ihcr.top/?user=CuCl2)](https://codeforces.com/profile/CuCl2) —— 大号 #2
+
+[![](http://cfrating.ihcr.top/?user=HCl_10)](https://codeforces.com/profile/HCl_10) —— 小号
+
+***
 #### [落海](http://www.kuwo.cn/play_detail/174077291) OI 版
 
 阶乘组合斯特林数在方程中潜行\
